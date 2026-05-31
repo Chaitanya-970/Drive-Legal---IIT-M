@@ -29,7 +29,8 @@ export const AuthProvider = ({ children }) => {
 
   const login = async (email, password) => {
     try {
-      const res = await fetch('http://localhost:5000/api/auth/login', {
+      const baseUrl = import.meta.env.VITE_API_URL || 'http://localhost:5000/api';
+      const res = await fetch(`${baseUrl}/auth/login`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ email, password }),
@@ -75,7 +76,8 @@ export const AuthProvider = ({ children }) => {
     await localforage.removeItem('authUser');
     
     try {
-      await fetch('http://localhost:5000/api/auth/logout');
+      const baseUrl = import.meta.env.VITE_API_URL || 'http://localhost:5000/api';
+      await fetch(`${baseUrl}/auth/logout`);
     } catch (err) {
       
     }

@@ -6,7 +6,7 @@ import { resolveJurisdiction } from '../utils/geocoder'
 import * as turf from '@turf/turf'
 import './ChallanCalculator.css'
 
-const API_URL = 'http://localhost:5000/api'
+const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:5000/api';
 const STORAGE_KEY = 'pendingChallans'
 
 const ZONE_MULTIPLIERS = {
