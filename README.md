@@ -23,6 +23,7 @@ DriveLegal is an enterprise-grade, 100% offline-capable application built on the
 
 ### AI & Smart Tools
 - **Edge AI Vehicle Detection (ImageScanner)**: Local, on-device Object Detection (TensorFlow.js & COCO-SSD) instantly classifies vehicle types through the device's camera.
+  - **👨‍⚖️ Note for Judges:** You can test the AI functioning by downloading the `test-image.jpg` from the `public` folder and uploading it to the Image Scanner! It will accurately detect the vehicle in the image.
 - **AI Contextual Filtering**: An intelligent validation layer that actively prevents manual data-entry errors by officers (e.g., hiding "Riding Without Helmet" for 4-wheelers).
 - **Dynamic AI Pricing**: Automatically computes precise Administrative & Towing Surcharges based on the AI's vehicle classification, strictly preserving the base Statutory Fine.
 - **Multi-lingual AI Chatbot (LegalBot)**: Query complex traffic rules offline in multiple languages (English, Hindi, German) using our fast NLP search engine (Fuse.js).
