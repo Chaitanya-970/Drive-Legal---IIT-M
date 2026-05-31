@@ -1,0 +1,1873 @@
+[
+  {
+    "country": "India",
+    "currency": "INR",
+    "regions": [
+      {
+        "name": "National/Default",
+        "vehicleTypes": [
+          {
+            "type": "Two-Wheeler",
+            "violations": [
+              {
+                "code": "Sec 129 / 194D MVA",
+                "name": "Riding without Helmet",
+                "fine": 1000,
+                "repeatFine": 2000,
+                "description": "Riding a two-wheeler without an ISI-certified helmet for driver and/or pillion rider."
+              },
+              {
+                "code": "Sec 128 / 194C MVA",
+                "name": "Triple Riding (Overloading)",
+                "fine": 1000,
+                "repeatFine": 2000,
+                "description": "Carrying more than one pillion rider on a two-wheeler."
+              },
+              {
+                "code": "Sec 184 MVA",
+                "name": "Dangerous / Rash Riding",
+                "fine": 1000,
+                "repeatFine": 2000,
+                "description": "Riding in a manner that is rash or dangerous to the public, including zig-zag riding."
+              },
+              {
+                "code": "Sec 190(2) MVA",
+                "name": "Modified Exhaust (Noise Pollution)",
+                "fine": 10000,
+                "repeatFine": 10000,
+                "description": "Using a non-compliant or modified exhaust/silencer that violates noise emission limits."
+              },
+              {
+                "code": "Sec 194C MVA",
+                "name": "Carrying Children without Safety Harness",
+                "fine": 1000,
+                "repeatFine": 2000,
+                "description": "Carrying a child under 4 years old without a safety harness or an approved helmet."
+              },
+              {
+                "code": "Sec 181 MVA",
+                "name": "Driving without License",
+                "fine": 5000,
+                "repeatFine": 10000,
+                "description": "Riding a two-wheeler without holding a valid driving license."
+              },
+              {
+                "code": "Sec 192A MVA",
+                "name": "Riding without Registration",
+                "fine": 2000,
+                "repeatFine": 5000,
+                "description": "Riding an unregistered two-wheeler on a public road."
+              },
+              {
+                "code": "Sec 196 MVA",
+                "name": "Riding without Valid Insurance",
+                "fine": 2000,
+                "repeatFine": 4000,
+                "description": "Operating a two-wheeler without a valid third-party insurance policy."
+              }
+            ]
+          },
+          {
+            "type": "Four-Wheeler",
+            "violations": [
+              {
+                "code": "Sec 194B(1) MVA",
+                "name": "Driving without Seat Belt",
+                "fine": 1000,
+                "repeatFine": 2000,
+                "description": "Driver or front/rear passengers failing to wear a seat belt while the vehicle is in motion."
+              },
+              {
+                "code": "Sec 183(1) MVA",
+                "name": "Overspeeding (Light Motor Vehicle)",
+                "fine": 2000,
+                "repeatFine": 4000,
+                "description": "Exceeding the designated speed limit for four-wheelers or light motor vehicles."
+              },
+              {
+                "code": "Sec 185 MVA",
+                "name": "Drunk Driving",
+                "fine": 10000,
+                "repeatFine": 15000,
+                "description": "Driving under the influence of alcohol (blood alcohol content exceeding 30 mg per 100 ml) or drugs."
+              },
+              {
+                "code": "Sec 184(c) MVA",
+                "name": "Using Mobile Phone while Driving",
+                "fine": 5000,
+                "repeatFine": 10000,
+                "description": "Using a handheld mobile phone, texting, or using interactive communication devices while driving."
+              },
+              {
+                "code": "Sec 119 / 177 MVA",
+                "name": "Red Light Jump",
+                "fine": 1000,
+                "repeatFine": 2000,
+                "description": "Failing to stop at a red signal or disobeying standard traffic signals and markings."
+              },
+              {
+                "code": "Sec 196 MVA",
+                "name": "Driving without Valid Insurance",
+                "fine": 2000,
+                "repeatFine": 4000,
+                "description": "Operating a motor vehicle without a valid third-party insurance policy."
+              },
+              {
+                "code": "Sec 177A MVA",
+                "name": "Wrong-way Driving",
+                "fine": 5000,
+                "repeatFine": 10000,
+                "description": "Driving against the flow of traffic on a one-way street or divided highway."
+              },
+              {
+                "code": "Sec 194A MVA",
+                "name": "Not Giving Way to Emergency Vehicles",
+                "fine": 10000,
+                "repeatFine": 10000,
+                "description": "Failing to give way to an ambulance, fire brigade, or other emergency vehicle."
+              },
+              {
+                "code": "Sec 194E MVA",
+                "name": "Not Wearing Helmet by Passengers (Convertible)",
+                "fine": 1000,
+                "repeatFine": 2000,
+                "description": "Passengers in open-top or convertible vehicles failing to wear seat belts or helmets."
+              }
+            ]
+          },
+          {
+            "type": "Auto-Rickshaw",
+            "violations": [
+              {
+                "code": "Sec 66 / 192A MVA",
+                "name": "Plying without Permit",
+                "fine": 10000,
+                "repeatFine": 10000,
+                "description": "Operating an auto-rickshaw for hire without a valid route or area permit."
+              },
+              {
+                "code": "Sec 194C MVA",
+                "name": "Overloading Passengers",
+                "fine": 2000,
+                "repeatFine": 4000,
+                "description": "Carrying more passengers than the auto-rickshaw is registered to carry."
+              },
+              {
+                "code": "Sec 178 MVA",
+                "name": "Refusing Fare / Overcharging",
+                "fine": 2000,
+                "repeatFine": 4000,
+                "description": "Refusing to take a passenger without reasonable cause or charging more than the metered fare."
+              },
+              {
+                "code": "Sec 181 MVA",
+                "name": "Driving without License",
+                "fine": 5000,
+                "repeatFine": 10000,
+                "description": "Driving an auto-rickshaw without a valid driving license."
+              },
+              {
+                "code": "Sec 190(2) MVA",
+                "name": "Modified Exhaust / Noise Pollution",
+                "fine": 10000,
+                "repeatFine": 10000,
+                "description": "Using a non-compliant or modified exhaust/silencer that violates noise emission limits."
+              },
+              {
+                "code": "Sec 196 MVA",
+                "name": "Driving without Valid Insurance",
+                "fine": 2000,
+                "repeatFine": 4000,
+                "description": "Operating an auto-rickshaw without a valid third-party insurance policy."
+              }
+            ]
+          },
+          {
+            "type": "Commercial Vehicle",
+            "violations": [
+              {
+                "code": "Sec 194(1) MVA",
+                "name": "Overloading Goods Vehicle",
+                "fine": 20000,
+                "repeatFine": 40000,
+                "description": "Loading a goods vehicle beyond its registered carrying capacity. Additional ₹2,000 per excess tonne."
+              },
+              {
+                "code": "Sec 66 / 192A MVA",
+                "name": "Driving without Goods Permit",
+                "fine": 10000,
+                "repeatFine": 10000,
+                "description": "Operating a commercial goods vehicle without the required national or state permit."
+              },
+              {
+                "code": "Sec 183(1) MVA",
+                "name": "Overspeeding (Heavy Vehicle)",
+                "fine": 4000,
+                "repeatFine": 8000,
+                "description": "Exceeding the designated speed limit for heavy goods or commercial vehicles."
+              },
+              {
+                "code": "Sec 185 MVA",
+                "name": "Drunk Driving (Commercial)",
+                "fine": 10000,
+                "repeatFine": 15000,
+                "description": "Driving a commercial vehicle under the influence of alcohol or drugs. May result in licence revocation."
+              },
+              {
+                "code": "Sec 194B(1) MVA",
+                "name": "Driving without Seat Belt",
+                "fine": 1000,
+                "repeatFine": 2000,
+                "description": "Driver of a commercial vehicle failing to wear a seat belt while the vehicle is in motion."
+              },
+              {
+                "code": "Sec 190(2) MVA",
+                "name": "Excessive Pollution / PUC Violation",
+                "fine": 10000,
+                "repeatFine": 10000,
+                "description": "Operating a commercial vehicle that does not meet Pollution Under Control (PUC) emission norms."
+              },
+              {
+                "code": "Sec 194C MVA",
+                "name": "Overloading Passengers (Transport Vehicle)",
+                "fine": 5000,
+                "repeatFine": 10000,
+                "description": "Carrying more passengers than the transport vehicle is licensed for."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Delhi",
+        "vehicleTypes": [
+          {
+            "type": "Two-Wheeler",
+            "violations": [
+              {
+                "code": "Sec 129 / 194D MVA (Delhi)",
+                "name": "Riding without Helmet",
+                "fine": 1000,
+                "repeatFine": 2000,
+                "description": "Riding a two-wheeler without an ISI-certified helmet. Delhi Traffic Police enforces this strictly with e-challan cameras."
+              },
+              {
+                "code": "Sec 184 MVA (Delhi)",
+                "name": "Dangerous / Rash Riding",
+                "fine": 1000,
+                "repeatFine": 2000,
+                "description": "Riding in a manner that is rash or dangerous to the public on Delhi roads."
+              },
+              {
+                "code": "Sec 181 MVA (Delhi)",
+                "name": "Driving without License",
+                "fine": 5000,
+                "repeatFine": 10000,
+                "description": "Riding a two-wheeler in Delhi without holding a valid driving license issued by any Indian RTO."
+              },
+              {
+                "code": "Sec 196 MVA (Delhi)",
+                "name": "Riding without Valid Insurance",
+                "fine": 2000,
+                "repeatFine": 4000,
+                "description": "Operating a two-wheeler in Delhi without a valid third-party insurance policy."
+              },
+              {
+                "code": "Sec 177 MVA (Delhi)",
+                "name": "Red Light Jump",
+                "fine": 1000,
+                "repeatFine": 2000,
+                "description": "Failing to stop at a red signal. Delhi uses automated CCTV e-challan cameras at major intersections."
+              },
+              {
+                "code": "Sec 190(2) MVA (Delhi)",
+                "name": "Modified Exhaust (Noise Pollution)",
+                "fine": 10000,
+                "repeatFine": 10000,
+                "description": "Using a non-compliant or modified exhaust/silencer. Delhi police actively impounds vehicles with modified exhausts."
+              }
+            ]
+          },
+          {
+            "type": "Four-Wheeler",
+            "violations": [
+              {
+                "code": "Sec 194B(1) MVA (Delhi)",
+                "name": "Driving without Seat Belt",
+                "fine": 1000,
+                "repeatFine": 2000,
+                "description": "Driver or passengers failing to wear a seat belt. Delhi Traffic Police issues e-challans via CCTV cameras."
+              },
+              {
+                "code": "Sec 183(1) MVA (Delhi)",
+                "name": "Overspeeding",
+                "fine": 2000,
+                "repeatFine": 4000,
+                "description": "Exceeding speed limits on Delhi roads. Speed limits: 50 km/h in residential, 70 km/h on main roads, 80 km/h on expressways."
+              },
+              {
+                "code": "Sec 185 MVA (Delhi)",
+                "name": "Drunk Driving",
+                "fine": 10000,
+                "repeatFine": 15000,
+                "description": "Driving under the influence in Delhi. Delhi Police conducts regular naaka-bandi checkpoints, especially on weekends."
+              },
+              {
+                "code": "Sec 184(c) MVA (Delhi)",
+                "name": "Using Mobile Phone while Driving",
+                "fine": 5000,
+                "repeatFine": 10000,
+                "description": "Using a handheld mobile phone while driving in Delhi."
+              },
+              {
+                "code": "Sec 177A MVA (Delhi)",
+                "name": "Wrong-way Driving",
+                "fine": 5000,
+                "repeatFine": 10000,
+                "description": "Driving against the flow of traffic on Delhi's one-way streets or divided highways."
+              },
+              {
+                "code": "GRAP / NGT Order (Delhi)",
+                "name": "Violating Odd-Even Rule",
+                "fine": 20000,
+                "repeatFine": 20000,
+                "description": "Violating the odd-even vehicle rationing scheme during GRAP Stage-IV smog emergency restrictions in Delhi-NCR."
+              },
+              {
+                "code": "Sec 196 MVA (Delhi)",
+                "name": "Driving without Valid Insurance",
+                "fine": 2000,
+                "repeatFine": 4000,
+                "description": "Operating a vehicle in Delhi without a valid third-party insurance policy."
+              }
+            ]
+          },
+          {
+            "type": "Auto-Rickshaw",
+            "violations": [
+              {
+                "code": "Sec 66 / 192A MVA (Delhi)",
+                "name": "Plying without Permit",
+                "fine": 10000,
+                "repeatFine": 10000,
+                "description": "Operating an auto-rickshaw in Delhi without a valid area permit issued by Delhi Transport Department."
+              },
+              {
+                "code": "Sec 178 MVA (Delhi)",
+                "name": "Refusing Fare / Overcharging",
+                "fine": 2000,
+                "repeatFine": 4000,
+                "description": "Refusing to take a passenger or overcharging beyond Delhi's metered fare. Report via Delhi Traffic Police helpline."
+              },
+              {
+                "code": "Sec 194C MVA (Delhi)",
+                "name": "Overloading Passengers",
+                "fine": 2000,
+                "repeatFine": 4000,
+                "description": "Carrying more than 3 passengers in a standard auto-rickshaw in Delhi."
+              },
+              {
+                "code": "Sec 190(2) MVA (Delhi)",
+                "name": "Excessive Pollution / PUC Violation",
+                "fine": 10000,
+                "repeatFine": 10000,
+                "description": "Operating an auto-rickshaw that does not meet PUC emission norms. Delhi mandates CNG for all auto-rickshaws."
+              }
+            ]
+          },
+          {
+            "type": "Commercial Vehicle",
+            "violations": [
+              {
+                "code": "Sec 194(1) MVA (Delhi)",
+                "name": "Overloading Goods Vehicle",
+                "fine": 20000,
+                "repeatFine": 40000,
+                "description": "Loading a goods vehicle beyond its registered carrying capacity in Delhi."
+              },
+              {
+                "code": "GRAP / SC Order (Delhi)",
+                "name": "Heavy Vehicle Entry Violation",
+                "fine": 20000,
+                "repeatFine": 40000,
+                "description": "Entry of heavy commercial vehicles into Delhi during restricted hours (7:00 AM - 11:00 PM) without essential goods permit."
+              },
+              {
+                "code": "Sec 190(2) MVA (Delhi)",
+                "name": "Excessive Pollution / PUC Violation",
+                "fine": 10000,
+                "repeatFine": 10000,
+                "description": "Operating a commercial vehicle that fails PUC emission tests. Diesel vehicles over 10 years are banned in Delhi."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Maharashtra",
+        "vehicleTypes": [
+          {
+            "type": "Two-Wheeler",
+            "violations": [
+              {
+                "code": "Sec 129 / 194D MVA (MH)",
+                "name": "Riding without Helmet",
+                "fine": 500,
+                "repeatFine": 1000,
+                "description": "Riding without a helmet. Maharashtra compounds this at ₹500 (lower than national ₹1,000). Mumbai Traffic Police uses e-challans."
+              },
+              {
+                "code": "Sec 184 MVA (MH)",
+                "name": "Dangerous / Rash Riding",
+                "fine": 1000,
+                "repeatFine": 2000,
+                "description": "Riding in a rash or dangerous manner on Maharashtra roads."
+              },
+              {
+                "code": "Sec 181 MVA (MH)",
+                "name": "Driving without License",
+                "fine": 5000,
+                "repeatFine": 10000,
+                "description": "Riding a two-wheeler in Maharashtra without a valid driving license."
+              },
+              {
+                "code": "Sec 177 MVA (MH)",
+                "name": "Red Light Jump",
+                "fine": 500,
+                "repeatFine": 1000,
+                "description": "Failing to stop at a red signal. Maharashtra compounds at ₹500."
+              },
+              {
+                "code": "Sec 196 MVA (MH)",
+                "name": "Riding without Valid Insurance",
+                "fine": 2000,
+                "repeatFine": 4000,
+                "description": "Operating a two-wheeler in Maharashtra without valid third-party insurance."
+              }
+            ]
+          },
+          {
+            "type": "Four-Wheeler",
+            "violations": [
+              {
+                "code": "Sec 194B(1) MVA (MH)",
+                "name": "Driving without Seat Belt",
+                "fine": 500,
+                "repeatFine": 1000,
+                "description": "Driver or passengers failing to wear a seat belt. Maharashtra compounds at ₹500."
+              },
+              {
+                "code": "Sec 183(1) MVA (MH)",
+                "name": "Overspeeding",
+                "fine": 1000,
+                "repeatFine": 2000,
+                "description": "Exceeding speed limits on Maharashtra roads. Mumbai: 60 km/h city, 80 km/h expressway."
+              },
+              {
+                "code": "Sec 185 MVA (MH)",
+                "name": "Drunk Driving",
+                "fine": 10000,
+                "repeatFine": 15000,
+                "description": "Driving under the influence of alcohol or drugs in Maharashtra."
+              },
+              {
+                "code": "Sec 184(c) MVA (MH)",
+                "name": "Using Mobile Phone while Driving",
+                "fine": 1500,
+                "repeatFine": 3000,
+                "description": "Using a handheld mobile phone while driving in Maharashtra. Compounded at ₹1,500."
+              },
+              {
+                "code": "Sec 177A MVA (MH)",
+                "name": "Wrong-way Driving",
+                "fine": 1500,
+                "repeatFine": 3000,
+                "description": "Driving against the flow of traffic in Maharashtra."
+              },
+              {
+                "code": "Sec 177 MVA (MH)",
+                "name": "Parking in No-Parking Zone",
+                "fine": 500,
+                "repeatFine": 1500,
+                "description": "Parking in a designated no-parking zone in Maharashtra. Vehicle may be towed."
+              }
+            ]
+          },
+          {
+            "type": "Auto-Rickshaw",
+            "violations": [
+              {
+                "code": "Sec 66 / 192A MVA (MH)",
+                "name": "Plying without Permit",
+                "fine": 10000,
+                "repeatFine": 10000,
+                "description": "Operating an auto-rickshaw in Maharashtra without a valid permit."
+              },
+              {
+                "code": "Sec 178 MVA (MH)",
+                "name": "Refusing Fare / Overcharging",
+                "fine": 2000,
+                "repeatFine": 4000,
+                "description": "Refusing to carry a passenger or tampering with the fare meter in Maharashtra."
+              },
+              {
+                "code": "Sec 194C MVA (MH)",
+                "name": "Overloading Passengers",
+                "fine": 2000,
+                "repeatFine": 4000,
+                "description": "Carrying more passengers than permitted in an auto-rickshaw in Maharashtra."
+              }
+            ]
+          },
+          {
+            "type": "Commercial Vehicle",
+            "violations": [
+              {
+                "code": "Sec 194(1) MVA (MH)",
+                "name": "Overloading Goods Vehicle",
+                "fine": 20000,
+                "repeatFine": 40000,
+                "description": "Loading a goods vehicle beyond registered capacity on Maharashtra roads."
+              },
+              {
+                "code": "Sec 185 MVA (MH)",
+                "name": "Drunk Driving (Commercial)",
+                "fine": 10000,
+                "repeatFine": 15000,
+                "description": "Driving a commercial vehicle under influence in Maharashtra. Licence may be revoked."
+              },
+              {
+                "code": "Sec 190(2) MVA (MH)",
+                "name": "Excessive Pollution / PUC Violation",
+                "fine": 10000,
+                "repeatFine": 10000,
+                "description": "Operating a commercial vehicle in Maharashtra that fails PUC emission norms."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Karnataka",
+        "vehicleTypes": [
+          {
+            "type": "Two-Wheeler",
+            "violations": [
+              {
+                "code": "Sec 129 / 194D MVA (KA)",
+                "name": "Riding without Helmet",
+                "fine": 500,
+                "repeatFine": 1100,
+                "description": "Riding without a helmet. Karnataka compounds at ₹500. Bengaluru Traffic Police issues e-challans at junctions."
+              },
+              {
+                "code": "Sec 184 MVA (KA)",
+                "name": "Dangerous / Rash Riding",
+                "fine": 1000,
+                "repeatFine": 2000,
+                "description": "Riding in a rash or dangerous manner in Karnataka."
+              },
+              {
+                "code": "Sec 181 MVA (KA)",
+                "name": "Driving without License",
+                "fine": 5000,
+                "repeatFine": 10000,
+                "description": "Riding a two-wheeler in Karnataka without a valid driving license."
+              },
+              {
+                "code": "Sec 177 MVA (KA)",
+                "name": "Red Light Jump",
+                "fine": 500,
+                "repeatFine": 1000,
+                "description": "Failing to stop at a red signal. Karnataka compounds at ₹500."
+              },
+              {
+                "code": "Sec 196 MVA (KA)",
+                "name": "Riding without Valid Insurance",
+                "fine": 2000,
+                "repeatFine": 4000,
+                "description": "Operating a two-wheeler in Karnataka without valid third-party insurance."
+              }
+            ]
+          },
+          {
+            "type": "Four-Wheeler",
+            "violations": [
+              {
+                "code": "Sec 194B(1) MVA (KA)",
+                "name": "Driving without Seat Belt",
+                "fine": 500,
+                "repeatFine": 1000,
+                "description": "Driver or passengers failing to wear a seat belt. Karnataka compounds at ₹500."
+              },
+              {
+                "code": "Sec 183(1) MVA (KA)",
+                "name": "Overspeeding",
+                "fine": 1000,
+                "repeatFine": 2000,
+                "description": "Exceeding speed limits in Karnataka. Bengaluru: 50 km/h city, 80 km/h ring road."
+              },
+              {
+                "code": "Sec 185 MVA (KA)",
+                "name": "Drunk Driving",
+                "fine": 10000,
+                "repeatFine": 15000,
+                "description": "Driving under the influence in Karnataka."
+              },
+              {
+                "code": "Sec 184(c) MVA (KA)",
+                "name": "Using Mobile Phone while Driving",
+                "fine": 5000,
+                "repeatFine": 10000,
+                "description": "Using a handheld mobile phone while driving in Karnataka."
+              },
+              {
+                "code": "Sec 177A MVA (KA)",
+                "name": "Wrong-way Driving",
+                "fine": 5000,
+                "repeatFine": 10000,
+                "description": "Driving against the flow of traffic on one-way streets in Karnataka."
+              },
+              {
+                "code": "Sec 177 MVA (KA)",
+                "name": "Parking in No-Parking Zone",
+                "fine": 500,
+                "repeatFine": 1500,
+                "description": "Parking in a designated no-parking zone in Karnataka."
+              }
+            ]
+          },
+          {
+            "type": "Auto-Rickshaw",
+            "violations": [
+              {
+                "code": "Sec 66 / 192A MVA (KA)",
+                "name": "Plying without Permit",
+                "fine": 10000,
+                "repeatFine": 10000,
+                "description": "Operating an auto-rickshaw in Karnataka without a valid permit."
+              },
+              {
+                "code": "Sec 178 MVA (KA)",
+                "name": "Refusing Fare / Overcharging",
+                "fine": 2000,
+                "repeatFine": 4000,
+                "description": "Refusing to carry a passenger or overcharging in Karnataka."
+              },
+              {
+                "code": "Sec 194C MVA (KA)",
+                "name": "Overloading Passengers",
+                "fine": 2000,
+                "repeatFine": 4000,
+                "description": "Carrying more passengers than permitted in an auto-rickshaw in Karnataka."
+              }
+            ]
+          },
+          {
+            "type": "Commercial Vehicle",
+            "violations": [
+              {
+                "code": "Sec 194(1) MVA (KA)",
+                "name": "Overloading Goods Vehicle",
+                "fine": 20000,
+                "repeatFine": 40000,
+                "description": "Loading a goods vehicle beyond registered capacity in Karnataka."
+              },
+              {
+                "code": "Sec 190(2) MVA (KA)",
+                "name": "Excessive Pollution / PUC Violation",
+                "fine": 10000,
+                "repeatFine": 10000,
+                "description": "Operating a commercial vehicle in Karnataka that fails PUC emission norms."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Tamil Nadu",
+        "vehicleTypes": [
+          {
+            "type": "Two-Wheeler",
+            "violations": [
+              {
+                "code": "Sec 129 / 194D MVA (TN)",
+                "name": "Riding without Helmet",
+                "fine": 1000,
+                "repeatFine": 2000,
+                "description": "Riding without a helmet in Tamil Nadu. Chennai Traffic Police enforces via e-challans."
+              },
+              {
+                "code": "Sec 184 MVA (TN)",
+                "name": "Dangerous / Rash Riding",
+                "fine": 1000,
+                "repeatFine": 2000,
+                "description": "Riding in a rash or dangerous manner in Tamil Nadu."
+              },
+              {
+                "code": "Sec 181 MVA (TN)",
+                "name": "Driving without License",
+                "fine": 5000,
+                "repeatFine": 10000,
+                "description": "Riding a two-wheeler in Tamil Nadu without a valid driving license."
+              },
+              {
+                "code": "Sec 177 MVA (TN)",
+                "name": "Red Light Jump",
+                "fine": 1000,
+                "repeatFine": 2000,
+                "description": "Failing to stop at a red signal in Tamil Nadu."
+              },
+              {
+                "code": "Sec 128 / 194C MVA (TN)",
+                "name": "Triple Riding (Overloading)",
+                "fine": 1000,
+                "repeatFine": 2000,
+                "description": "Carrying more than one pillion rider on a two-wheeler in Tamil Nadu."
+              }
+            ]
+          },
+          {
+            "type": "Four-Wheeler",
+            "violations": [
+              {
+                "code": "Sec 194B(1) MVA (TN)",
+                "name": "Driving without Seat Belt",
+                "fine": 1000,
+                "repeatFine": 2000,
+                "description": "Driver or passengers failing to wear a seat belt in Tamil Nadu."
+              },
+              {
+                "code": "Sec 183(1) MVA (TN)",
+                "name": "Overspeeding",
+                "fine": 2000,
+                "repeatFine": 4000,
+                "description": "Exceeding speed limits in Tamil Nadu. Chennai: 50 km/h city roads."
+              },
+              {
+                "code": "Sec 185 MVA (TN)",
+                "name": "Drunk Driving",
+                "fine": 10000,
+                "repeatFine": 15000,
+                "description": "Driving under the influence in Tamil Nadu. Tamil Nadu has strict prohibition enforcement."
+              },
+              {
+                "code": "Sec 184(c) MVA (TN)",
+                "name": "Using Mobile Phone while Driving",
+                "fine": 5000,
+                "repeatFine": 10000,
+                "description": "Using a handheld mobile phone while driving in Tamil Nadu."
+              },
+              {
+                "code": "Sec 177A MVA (TN)",
+                "name": "Wrong-way Driving",
+                "fine": 5000,
+                "repeatFine": 10000,
+                "description": "Driving against the flow of traffic in Tamil Nadu."
+              }
+            ]
+          },
+          {
+            "type": "Auto-Rickshaw",
+            "violations": [
+              {
+                "code": "Sec 66 / 192A MVA (TN)",
+                "name": "Plying without Permit",
+                "fine": 10000,
+                "repeatFine": 10000,
+                "description": "Operating an auto-rickshaw in Tamil Nadu without a valid permit."
+              },
+              {
+                "code": "Sec 178 MVA (TN)",
+                "name": "Refusing Fare / Overcharging",
+                "fine": 2000,
+                "repeatFine": 4000,
+                "description": "Refusing to carry a passenger or overcharging beyond metered fare in Tamil Nadu."
+              },
+              {
+                "code": "Sec 194C MVA (TN)",
+                "name": "Overloading Passengers",
+                "fine": 2000,
+                "repeatFine": 4000,
+                "description": "Carrying more passengers than permitted in an auto-rickshaw in Tamil Nadu."
+              }
+            ]
+          },
+          {
+            "type": "Commercial Vehicle",
+            "violations": [
+              {
+                "code": "Sec 194(1) MVA (TN)",
+                "name": "Overloading Goods Vehicle",
+                "fine": 20000,
+                "repeatFine": 40000,
+                "description": "Loading a goods vehicle beyond registered capacity in Tamil Nadu."
+              },
+              {
+                "code": "Sec 190(2) MVA (TN)",
+                "name": "Excessive Pollution / PUC Violation",
+                "fine": 10000,
+                "repeatFine": 10000,
+                "description": "Operating a commercial vehicle in Tamil Nadu that fails PUC emission norms."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Kerala",
+        "vehicleTypes": [
+          {
+            "type": "Two-Wheeler",
+            "violations": [
+              {
+                "code": "Sec 129 / 194D MVA (KL)",
+                "name": "Riding without Helmet",
+                "fine": 500,
+                "repeatFine": 1000,
+                "description": "Riding without a helmet. Kerala strictly enforces this using AI cameras."
+              },
+              {
+                "code": "Sec 183(1) MVA (KL)",
+                "name": "Overspeeding",
+                "fine": 1500,
+                "repeatFine": 3000,
+                "description": "Exceeding speed limits in Kerala. Enforced strictly via AI cameras across highways."
+              }
+            ]
+          },
+          {
+            "type": "Four-Wheeler",
+            "violations": [
+              {
+                "code": "Sec 194B(1) MVA (KL)",
+                "name": "Driving without Seat Belt",
+                "fine": 500,
+                "repeatFine": 1000,
+                "description": "Driver or passengers failing to wear a seat belt in Kerala. Enforced by AI cameras."
+              },
+              {
+                "code": "Sec 183(1) MVA (KL)",
+                "name": "Overspeeding",
+                "fine": 1500,
+                "repeatFine": 3000,
+                "description": "Exceeding speed limits in Kerala."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Germany",
+    "currency": "EUR",
+    "regions": [
+      {
+        "name": "National/Default",
+        "vehicleTypes": [
+          {
+            "type": "Two-Wheeler",
+            "violations": [
+              {
+                "code": "§ 21a Abs. 2 StVO",
+                "name": "Motorcycle Riding without Helmet",
+                "fine": 15,
+                "repeatFine": 15,
+                "description": "Riding a motorcycle or motor scooter without wearing a suitable protective helmet."
+              },
+              {
+                "code": "§ 23 Abs. 1a StVO",
+                "name": "Bicycle - Mobile Phone Use",
+                "fine": 55,
+                "repeatFine": 55,
+                "description": "Using or holding a mobile phone while riding a bicycle."
+              },
+              {
+                "code": "§ 2 Abs. 5 StVO",
+                "name": "Bicycle - Unauthorized Sidewalk Riding",
+                "fine": 55,
+                "repeatFine": 55,
+                "description": "Riding a bicycle on the sidewalk (Gehweg) instead of the designated bicycle path or road."
+              },
+              {
+                "code": "§ 17 Abs. 1 StVO",
+                "name": "Bicycle - Riding without Lights in Darkness",
+                "fine": 20,
+                "repeatFine": 20,
+                "description": "Riding a bicycle without functioning front and rear lights during darkness or poor visibility."
+              },
+              {
+                "code": "§ 21 Abs. 1a StVO",
+                "name": "Motorcycle - Overloading / Pillion Passenger Violations",
+                "fine": 5,
+                "repeatFine": 5,
+                "description": "Carrying a passenger on a motorcycle without a proper passenger seat, footrests, or holding handles."
+              },
+              {
+                "code": "§ 37 Abs. 2 StVO",
+                "name": "Bicycle - Running a Red Light",
+                "fine": 60,
+                "repeatFine": 120,
+                "description": "Failing to stop at a red traffic signal while riding a bicycle."
+              }
+            ]
+          },
+          {
+            "type": "Four-Wheeler",
+            "violations": [
+              {
+                "code": "§ 21a Abs. 1 StVO",
+                "name": "Driving without Seat Belt",
+                "fine": 30,
+                "repeatFine": 30,
+                "description": "Driving or riding in a car without wearing a seatbelt."
+              },
+              {
+                "code": "§ 3 Abs. 3 StVO",
+                "name": "Speeding - Urban (16-20 km/h over)",
+                "fine": 70,
+                "repeatFine": 70,
+                "description": "Exceeding the speed limit in urban areas (innerorts) by 16 to 20 km/h."
+              },
+              {
+                "code": "§ 3 Abs. 3 StVO",
+                "name": "Speeding - Urban (21-25 km/h over)",
+                "fine": 115,
+                "repeatFine": 230,
+                "description": "Exceeding the speed limit in urban areas (innerorts) by 21 to 25 km/h (carries 1 penalty point)."
+              },
+              {
+                "code": "§ 23 Abs. 1a StVO",
+                "name": "Car - Mobile Phone Use",
+                "fine": 100,
+                "repeatFine": 200,
+                "description": "Using or holding a mobile phone or electronic device while the vehicle's engine is running."
+              },
+              {
+                "code": "§ 37 Abs. 2 StVO",
+                "name": "Running a Red Light (under 1 second)",
+                "fine": 90,
+                "repeatFine": 180,
+                "description": "Crossing a red traffic light that has been red for less than 1 second."
+              },
+              {
+                "code": "§ 37 Abs. 2 StVO",
+                "name": "Running a Red Light (over 1 second)",
+                "fine": 200,
+                "repeatFine": 400,
+                "description": "Crossing a red traffic light that has been red for more than 1 second (carries 2 penalty points and a 1-month driving ban)."
+              },
+              {
+                "code": "§ 24a StVG",
+                "name": "Drunk Driving (First Offense)",
+                "fine": 500,
+                "repeatFine": 1000,
+                "description": "Driving with a blood alcohol concentration of 0.5 to 1.09 per mille (carries 2 points and a 1-month driving ban)."
+              },
+              {
+                "code": "§ 4 Abs. 1 StVO",
+                "name": "Tailgating (Insufficient Safety Distance)",
+                "fine": 80,
+                "repeatFine": 160,
+                "description": "Tailgating another vehicle on the highway at speeds above 80 km/h, violating the safe stopping distance."
+              }
+            ]
+          },
+          {
+            "type": "Commercial Vehicle",
+            "violations": [
+              {
+                "code": "§ 31 Abs. 2 StVZO",
+                "name": "Overloading (more than 5%)",
+                "fine": 235,
+                "repeatFine": 470,
+                "description": "Loading a commercial vehicle more than 5% above the permissible total weight."
+              },
+              {
+                "code": "§ 57a StVZO",
+                "name": "Failure to Secure Cargo",
+                "fine": 60,
+                "repeatFine": 120,
+                "description": "Failing to properly secure cargo on a commercial vehicle, risking it falling onto the road."
+              },
+              {
+                "code": "§ 4 Abs. 3 FPersV",
+                "name": "Exceeding Driving Hours (EU Regulation)",
+                "fine": 120,
+                "repeatFine": 240,
+                "description": "Driving a commercial vehicle beyond the maximum allowed daily driving hours (9 hours, extendable to 10 hours twice a week)."
+              },
+              {
+                "code": "§ 24a StVG",
+                "name": "Drunk Driving (Commercial, BAC 0.0)",
+                "fine": 250,
+                "repeatFine": 500,
+                "description": "Commercial vehicle drivers must have 0.0 per mille BAC. Any alcohol detected results in a penalty."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "United States",
+    "currency": "USD",
+    "regions": [
+      {
+        "name": "California",
+        "vehicleTypes": [
+          {
+            "type": "Two-Wheeler",
+            "violations": [
+              {
+                "code": "CVC § 27803",
+                "name": "Riding without Helmet (under 18)",
+                "fine": 197,
+                "repeatFine": 197,
+                "description": "Any motorcycle rider or passenger under 18 must wear a DOT-approved helmet in California. All riders must wear helmets."
+              },
+              {
+                "code": "CVC § 21453(a)",
+                "name": "Running a Red Light",
+                "fine": 490,
+                "repeatFine": 490,
+                "description": "Failing to stop at a red signal while riding a motorcycle in California."
+              },
+              {
+                "code": "CVC § 22350",
+                "name": "Exceeding Safe Speed",
+                "fine": 238,
+                "repeatFine": 238,
+                "description": "Riding a motorcycle faster than is safe for current conditions. Base fine ~$35, with surcharges totaling ~$238."
+              },
+              {
+                "code": "CVC § 12500(a)",
+                "name": "Riding without Valid License",
+                "fine": 250,
+                "repeatFine": 500,
+                "description": "Operating a motorcycle in California without a valid Class M motorcycle license or permit."
+              },
+              {
+                "code": "CVC § 23123.5",
+                "name": "Using Handheld Phone while Riding",
+                "fine": 162,
+                "repeatFine": 280,
+                "description": "Using a handheld wireless phone while operating a motorcycle in California."
+              }
+            ]
+          },
+          {
+            "type": "Four-Wheeler",
+            "violations": [
+              {
+                "code": "CVC § 27315",
+                "name": "Not Wearing Seat Belt",
+                "fine": 162,
+                "repeatFine": 162,
+                "description": "Driver or passenger failing to wear a seat belt. California is a primary enforcement state."
+              },
+              {
+                "code": "CVC § 22350",
+                "name": "Speeding (1-15 mph over)",
+                "fine": 238,
+                "repeatFine": 238,
+                "description": "Exceeding the posted speed limit by 1-15 mph. Base fine ~$35, total with fees ~$238."
+              },
+              {
+                "code": "CVC § 22350",
+                "name": "Speeding (16-25 mph over)",
+                "fine": 367,
+                "repeatFine": 367,
+                "description": "Exceeding the posted speed limit by 16-25 mph. Base fine ~$70, total with fees ~$367."
+              },
+              {
+                "code": "CVC § 23152(a)",
+                "name": "DUI - Driving Under the Influence",
+                "fine": 2000,
+                "repeatFine": 4000,
+                "description": "Driving with BAC of 0.08% or higher. First offense: $390-$1,000 fine plus penalties, fees, DUI school, and possible jail time."
+              },
+              {
+                "code": "CVC § 21453(a)",
+                "name": "Running a Red Light",
+                "fine": 490,
+                "repeatFine": 490,
+                "description": "Failing to stop at a red signal. One of the most expensive traffic tickets in California."
+              },
+              {
+                "code": "CVC § 23123",
+                "name": "Using Handheld Phone while Driving",
+                "fine": 162,
+                "repeatFine": 280,
+                "description": "Holding and operating a handheld wireless telephone while driving."
+              },
+              {
+                "code": "CVC § 22450",
+                "name": "Failure to Stop at Stop Sign",
+                "fine": 238,
+                "repeatFine": 238,
+                "description": "Failing to come to a complete stop at a stop sign."
+              },
+              {
+                "code": "CVC § 16029",
+                "name": "Driving without Valid Insurance",
+                "fine": 900,
+                "repeatFine": 1800,
+                "description": "Driving without valid proof of financial responsibility (insurance). First offense up to $900, second up to $1,800."
+              }
+            ]
+          },
+          {
+            "type": "Commercial Vehicle",
+            "violations": [
+              {
+                "code": "CVC § 23152(d)",
+                "name": "DUI - Commercial Vehicle (BAC 0.04%)",
+                "fine": 2500,
+                "repeatFine": 5000,
+                "description": "Operating a commercial vehicle with a BAC of 0.04% or higher. Results in CDL disqualification."
+              },
+              {
+                "code": "CVC § 35551",
+                "name": "Overweight Vehicle",
+                "fine": 1000,
+                "repeatFine": 2000,
+                "description": "Operating a commercial vehicle exceeding gross weight limits. Fine increases with amount of excess weight."
+              },
+              {
+                "code": "CVC § 34501.2",
+                "name": "Hours of Service Violation",
+                "fine": 500,
+                "repeatFine": 1000,
+                "description": "Exceeding maximum driving hours for commercial vehicle operators (11 hours driving, 14 hours on-duty)."
+              },
+              {
+                "code": "CVC § 24002",
+                "name": "Unsafe Commercial Vehicle Operation",
+                "fine": 1000,
+                "repeatFine": 2000,
+                "description": "Operating a commercial vehicle in an unsafe condition that endangers the public."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "New York",
+        "vehicleTypes": [
+          {
+            "type": "Two-Wheeler",
+            "violations": [
+              {
+                "code": "VTL § 381(6)",
+                "name": "Riding without Helmet",
+                "fine": 100,
+                "repeatFine": 100,
+                "description": "All motorcycle operators and passengers must wear DOT-approved helmets in New York."
+              },
+              {
+                "code": "VTL § 1111(d)",
+                "name": "Running a Red Light",
+                "fine": 278,
+                "repeatFine": 478,
+                "description": "Failing to stop at a red signal while riding a motorcycle in New York."
+              },
+              {
+                "code": "VTL § 1180(b)",
+                "name": "Speeding (1-10 mph over)",
+                "fine": 203,
+                "repeatFine": 303,
+                "description": "Exceeding the posted speed limit by 1-10 mph in New York. Fine includes mandatory surcharge."
+              },
+              {
+                "code": "VTL § 509(1)",
+                "name": "Riding without Valid License",
+                "fine": 300,
+                "repeatFine": 500,
+                "description": "Operating a motorcycle in New York without a valid Class M motorcycle license."
+              }
+            ]
+          },
+          {
+            "type": "Four-Wheeler",
+            "violations": [
+              {
+                "code": "VTL § 1229-c",
+                "name": "Not Wearing Seat Belt",
+                "fine": 50,
+                "repeatFine": 50,
+                "description": "Driver or front-seat passenger failing to wear a seat belt in New York."
+              },
+              {
+                "code": "VTL § 1180(b)",
+                "name": "Speeding (1-10 mph over)",
+                "fine": 203,
+                "repeatFine": 303,
+                "description": "Exceeding the posted speed limit by 1-10 mph in New York."
+              },
+              {
+                "code": "VTL § 1180(d)",
+                "name": "Speeding (11-30 mph over)",
+                "fine": 393,
+                "repeatFine": 593,
+                "description": "Exceeding the posted speed limit by 11-30 mph in New York. Carries 4-6 points on license."
+              },
+              {
+                "code": "VTL § 1192",
+                "name": "DUI / DWI",
+                "fine": 1000,
+                "repeatFine": 5000,
+                "description": "Driving while intoxicated (BAC 0.08% or higher). First offense: $500-$1,000 fine, possible jail, and license revocation."
+              },
+              {
+                "code": "VTL § 1111(d)",
+                "name": "Running a Red Light",
+                "fine": 278,
+                "repeatFine": 478,
+                "description": "Failing to stop at a steady red signal in New York."
+              },
+              {
+                "code": "VTL § 1225-d",
+                "name": "Using Handheld Phone while Driving",
+                "fine": 200,
+                "repeatFine": 450,
+                "description": "Using a handheld mobile telephone while driving in New York. 5 points on license."
+              },
+              {
+                "code": "VTL § 319(1)",
+                "name": "Driving without Valid Insurance",
+                "fine": 750,
+                "repeatFine": 1500,
+                "description": "Operating a vehicle in New York without the required minimum liability insurance. Registration can be suspended."
+              },
+              {
+                "code": "VTL § 1163(a)",
+                "name": "Improper Turn / No Signal",
+                "fine": 203,
+                "repeatFine": 303,
+                "description": "Failing to signal or making an improper turn in New York. Carries 2 points."
+              }
+            ]
+          },
+          {
+            "type": "Commercial Vehicle",
+            "violations": [
+              {
+                "code": "VTL § 1192(10)",
+                "name": "DUI / DWI - Commercial Vehicle (BAC 0.04%)",
+                "fine": 2500,
+                "repeatFine": 5000,
+                "description": "Operating a commercial vehicle with a BAC of 0.04% or higher in New York. CDL revocation."
+              },
+              {
+                "code": "VTL § 385(12)",
+                "name": "Overweight Vehicle",
+                "fine": 500,
+                "repeatFine": 1000,
+                "description": "Operating a commercial vehicle exceeding posted weight limits on New York roads."
+              },
+              {
+                "code": "49 CFR 395",
+                "name": "Hours of Service Violation",
+                "fine": 500,
+                "repeatFine": 1000,
+                "description": "Exceeding maximum driving hours for commercial vehicle operators as per federal FMCSA regulations."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Texas",
+        "vehicleTypes": [
+          {
+            "type": "Two-Wheeler",
+            "violations": [
+              {
+                "code": "TX Trans. § 661.003",
+                "name": "Riding without Helmet (under 21)",
+                "fine": 250,
+                "repeatFine": 250,
+                "description": "Riders under 21 must wear a DOT-approved helmet in Texas. Riders 21+ are exempt with insurance or training course."
+              },
+              {
+                "code": "TX Trans. § 544.007",
+                "name": "Running a Red Light",
+                "fine": 275,
+                "repeatFine": 275,
+                "description": "Failing to stop at a red signal while riding a motorcycle in Texas."
+              },
+              {
+                "code": "TX Trans. § 545.352",
+                "name": "Speeding (1-10 mph over)",
+                "fine": 197,
+                "repeatFine": 197,
+                "description": "Exceeding the posted speed limit by 1-10 mph in Texas."
+              },
+              {
+                "code": "TX Trans. § 521.021",
+                "name": "Riding without Valid License",
+                "fine": 200,
+                "repeatFine": 500,
+                "description": "Operating a motorcycle in Texas without a valid Class M motorcycle license."
+              }
+            ]
+          },
+          {
+            "type": "Four-Wheeler",
+            "violations": [
+              {
+                "code": "TX Trans. § 545.413",
+                "name": "Not Wearing Seat Belt",
+                "fine": 200,
+                "repeatFine": 200,
+                "description": "Driver or passenger failing to wear a seat belt in Texas. Texas is a primary enforcement state."
+              },
+              {
+                "code": "TX Trans. § 545.352",
+                "name": "Speeding (1-10 mph over)",
+                "fine": 197,
+                "repeatFine": 197,
+                "description": "Exceeding the posted speed limit by 1-10 mph in Texas."
+              },
+              {
+                "code": "TX Trans. § 545.352",
+                "name": "Speeding (11-15 mph over)",
+                "fine": 224,
+                "repeatFine": 224,
+                "description": "Exceeding the posted speed limit by 11-15 mph in Texas."
+              },
+              {
+                "code": "TX Penal § 49.04",
+                "name": "DWI - Driving While Intoxicated",
+                "fine": 2000,
+                "repeatFine": 4000,
+                "description": "Driving with BAC of 0.08% or higher. First offense: up to $2,000 fine, 72 hours to 180 days jail. Second offense: up to $4,000."
+              },
+              {
+                "code": "TX Trans. § 544.007",
+                "name": "Running a Red Light",
+                "fine": 275,
+                "repeatFine": 275,
+                "description": "Failing to stop at a steady red signal in Texas."
+              },
+              {
+                "code": "TX Trans. § 545.424",
+                "name": "Using Handheld Phone while Driving",
+                "fine": 99,
+                "repeatFine": 200,
+                "description": "Texting or using a handheld electronic device while driving in Texas."
+              },
+              {
+                "code": "TX Trans. § 601.191",
+                "name": "Driving without Valid Insurance",
+                "fine": 500,
+                "repeatFine": 1000,
+                "description": "Driving without the minimum required liability insurance in Texas. License suspension possible."
+              },
+              {
+                "code": "TX Trans. § 545.058",
+                "name": "Failure to Yield Right of Way",
+                "fine": 275,
+                "repeatFine": 275,
+                "description": "Failing to yield the right of way to another vehicle or pedestrian in Texas."
+              }
+            ]
+          },
+          {
+            "type": "Commercial Vehicle",
+            "violations": [
+              {
+                "code": "TX Penal § 49.04 / FMCSA",
+                "name": "DWI - Commercial Vehicle (BAC 0.04%)",
+                "fine": 2500,
+                "repeatFine": 5000,
+                "description": "Operating a commercial vehicle with a BAC of 0.04% or higher in Texas. Results in CDL disqualification."
+              },
+              {
+                "code": "TX Trans. § 621.101",
+                "name": "Overweight Vehicle",
+                "fine": 500,
+                "repeatFine": 1000,
+                "description": "Operating a commercial vehicle exceeding Texas gross weight limits."
+              },
+              {
+                "code": "49 CFR 395 / TX",
+                "name": "Hours of Service Violation",
+                "fine": 500,
+                "repeatFine": 1000,
+                "description": "Exceeding maximum driving hours for commercial vehicle operators in Texas."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "United Kingdom",
+    "currency": "GBP",
+    "regions": [
+      {
+        "name": "National/Default",
+        "vehicleTypes": [
+          {
+            "type": "Two-Wheeler",
+            "violations": [
+              {
+                "code": "RTA 1988 § 16",
+                "name": "Riding without Helmet",
+                "fine": 500,
+                "repeatFine": 500,
+                "description": "Riding a motorcycle without an approved safety helmet on a public road. Fixed Penalty Notice: £500 max."
+              },
+              {
+                "code": "RTA 1988 § 87",
+                "name": "Riding without Valid License",
+                "fine": 1000,
+                "repeatFine": 1000,
+                "description": "Riding a motorcycle without a valid full or provisional motorcycle licence with appropriate CBT."
+              },
+              {
+                "code": "CUR Reg. 27",
+                "name": "Riding without MOT Certificate",
+                "fine": 1000,
+                "repeatFine": 1000,
+                "description": "Using a motorcycle on the road without a valid MOT certificate (applies to vehicles over 3 years old)."
+              },
+              {
+                "code": "RTOA 1988 § 172",
+                "name": "Using Mobile Phone while Riding",
+                "fine": 200,
+                "repeatFine": 200,
+                "description": "Using a handheld mobile phone while riding a motorcycle. Carries 6 penalty points."
+              },
+              {
+                "code": "RTA 1988 § 36",
+                "name": "Running a Red Light",
+                "fine": 100,
+                "repeatFine": 1000,
+                "description": "Failing to stop at a red traffic signal. Fixed Penalty: £100 and 3 points. If contested and found guilty, up to £1,000."
+              },
+              {
+                "code": "RTA 1988 § 2",
+                "name": "Dangerous Riding",
+                "fine": 5000,
+                "repeatFine": 5000,
+                "description": "Riding a motorcycle in a manner that falls far below what would be expected of a competent rider."
+              }
+            ]
+          },
+          {
+            "type": "Four-Wheeler",
+            "violations": [
+              {
+                "code": "RTA 1988 § 14",
+                "name": "Not Wearing Seat Belt",
+                "fine": 500,
+                "repeatFine": 500,
+                "description": "Driver or passenger failing to wear a seat belt. Fixed Penalty: £100, up to £500 if contested."
+              },
+              {
+                "code": "RTOA 1988 § 89",
+                "name": "Speeding (Minor - up to 10 mph over)",
+                "fine": 100,
+                "repeatFine": 100,
+                "description": "Exceeding the speed limit by up to 10 mph. Fixed Penalty: £100 and 3 points. Speed awareness course may be offered."
+              },
+              {
+                "code": "RTOA 1988 § 89",
+                "name": "Speeding (Moderate - 11-20 mph over)",
+                "fine": 300,
+                "repeatFine": 600,
+                "description": "Exceeding the speed limit by 11-20 mph. Band B fine: 75-125% of weekly income, 4-6 points."
+              },
+              {
+                "code": "RTOA 1988 § 89",
+                "name": "Speeding (Severe - 21+ mph over)",
+                "fine": 600,
+                "repeatFine": 1000,
+                "description": "Exceeding the speed limit by 21+ mph. Band C fine: 125-175% of weekly income, 6 points, possible disqualification."
+              },
+              {
+                "code": "RTA 1988 § 5",
+                "name": "Drink Driving (Over Limit)",
+                "fine": 2500,
+                "repeatFine": 5000,
+                "description": "Driving with blood alcohol above 80mg/100ml (England/Wales). Up to 6 months imprisonment, unlimited fine, 12-month ban."
+              },
+              {
+                "code": "RTA 1988 § 41D",
+                "name": "Using Handheld Phone while Driving",
+                "fine": 200,
+                "repeatFine": 1000,
+                "description": "Using a handheld mobile phone while driving. Fixed Penalty: £200 and 6 points. If contested: up to £1,000."
+              },
+              {
+                "code": "RTA 1988 § 36",
+                "name": "Running a Red Light",
+                "fine": 100,
+                "repeatFine": 1000,
+                "description": "Failing to stop at a red traffic signal. Fixed Penalty: £100 and 3 points."
+              },
+              {
+                "code": "RTA 1988 § 143",
+                "name": "Driving without Valid Insurance",
+                "fine": 300,
+                "repeatFine": 300,
+                "description": "Driving without valid motor insurance. Fixed Penalty: £300 and 6 points. Court can impose unlimited fine."
+              },
+              {
+                "code": "RTA 1988 § 47",
+                "name": "Driving without Valid MOT",
+                "fine": 1000,
+                "repeatFine": 1000,
+                "description": "Using a vehicle on the road without a valid MOT certificate. Maximum fine: £1,000."
+              },
+              {
+                "code": "RTA 1988 § 42",
+                "name": "Driving without Valid Road Tax (VED)",
+                "fine": 1000,
+                "repeatFine": 1000,
+                "description": "Using a vehicle on the road without valid Vehicle Excise Duty (road tax). Maximum fine: £1,000."
+              }
+            ]
+          },
+          {
+            "type": "Commercial Vehicle",
+            "violations": [
+              {
+                "code": "RTA 1988 § 5 / CU Regs",
+                "name": "Drink Driving (Commercial, BAC 0.08%)",
+                "fine": 2500,
+                "repeatFine": 5000,
+                "description": "Driving a commercial vehicle with blood alcohol above legal limit. Results in loss of CPC and vocational licence."
+              },
+              {
+                "code": "CUR Reg. 80",
+                "name": "Overloading Vehicle",
+                "fine": 5000,
+                "repeatFine": 5000,
+                "description": "Operating a commercial vehicle exceeding its maximum gross weight. Immediate prohibition and fine."
+              },
+              {
+                "code": "EU Reg. 561/2006 (retained)",
+                "name": "Drivers' Hours Violation",
+                "fine": 300,
+                "repeatFine": 600,
+                "description": "Exceeding maximum daily or weekly driving hours (9 hours daily, 56 hours weekly). Fixed Penalty starting at £300."
+              },
+              {
+                "code": "CUR Reg. 100",
+                "name": "Insecure Load",
+                "fine": 300,
+                "repeatFine": 600,
+                "description": "Carrying an insecure or improperly fastened load on a commercial vehicle."
+              },
+              {
+                "code": "RTA 1988 § 71",
+                "name": "Driving without Valid HGV License",
+                "fine": 1000,
+                "repeatFine": 1000,
+                "description": "Driving a heavy goods vehicle without a valid Category C or C+E driving licence."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "United Arab Emirates",
+    "currency": "AED",
+    "regions": [
+      {
+        "name": "Dubai",
+        "vehicleTypes": [
+          {
+            "type": "Two-Wheeler",
+            "violations": [
+              {
+                "code": "Dubai Traffic Code Art. 163",
+                "name": "Riding without Helmet",
+                "fine": 500,
+                "repeatFine": 500,
+                "description": "Riding a motorcycle without wearing an approved safety helmet in Dubai. 4 black points."
+              },
+              {
+                "code": "Dubai Traffic Code Art. 160",
+                "name": "Dangerous Swerving / Reckless Riding",
+                "fine": 2000,
+                "repeatFine": 2000,
+                "description": "Swerving dangerously between lanes on a motorcycle. 23 black points, 60-day vehicle impound."
+              },
+              {
+                "code": "Dubai Traffic Code Art. 161",
+                "name": "Riding without Valid License",
+                "fine": 500,
+                "repeatFine": 500,
+                "description": "Riding a motorcycle without a valid motorcycle license in Dubai."
+              },
+              {
+                "code": "Dubai Traffic Code Art. 175",
+                "name": "Running a Red Light",
+                "fine": 1000,
+                "repeatFine": 1000,
+                "description": "Crossing a red signal on a motorcycle. 12 black points, 30-day vehicle impound."
+              },
+              {
+                "code": "Dubai Traffic Code Art. 170",
+                "name": "Using Mobile Phone while Riding",
+                "fine": 800,
+                "repeatFine": 800,
+                "description": "Using a handheld phone while riding a motorcycle in Dubai. 4 black points."
+              }
+            ]
+          },
+          {
+            "type": "Four-Wheeler",
+            "violations": [
+              {
+                "code": "Dubai Traffic Code Art. 164",
+                "name": "Not Wearing Seat Belt",
+                "fine": 400,
+                "repeatFine": 400,
+                "description": "Driver or passenger not wearing a seat belt. 4 black points."
+              },
+              {
+                "code": "Dubai Traffic Code Art. 174",
+                "name": "Speeding (up to 20 km/h over)",
+                "fine": 600,
+                "repeatFine": 600,
+                "description": "Exceeding the posted speed limit by up to 20 km/h in Dubai."
+              },
+              {
+                "code": "Dubai Traffic Code Art. 174",
+                "name": "Speeding (21-40 km/h over)",
+                "fine": 900,
+                "repeatFine": 900,
+                "description": "Exceeding the posted speed limit by 21-40 km/h. 6 black points."
+              },
+              {
+                "code": "Dubai Traffic Code Art. 174",
+                "name": "Speeding (41-60 km/h over)",
+                "fine": 1500,
+                "repeatFine": 1500,
+                "description": "Exceeding the posted speed limit by 41-60 km/h. 12 black points, 15-day vehicle impound."
+              },
+              {
+                "code": "Dubai Traffic Code Art. 174",
+                "name": "Speeding (over 60 km/h over)",
+                "fine": 3000,
+                "repeatFine": 3000,
+                "description": "Exceeding the posted speed limit by more than 60 km/h. 23 black points, 60-day impound, 1-year licence suspension possible."
+              },
+              {
+                "code": "Federal Law Art. 49",
+                "name": "Drunk Driving / Driving Under Influence",
+                "fine": 20000,
+                "repeatFine": 40000,
+                "description": "Driving under the influence of alcohol or drugs. Zero-tolerance policy in UAE. Criminal prosecution, deportation possible for non-residents."
+              },
+              {
+                "code": "Dubai Traffic Code Art. 170",
+                "name": "Using Handheld Phone while Driving",
+                "fine": 800,
+                "repeatFine": 800,
+                "description": "Using a handheld mobile phone while driving. 4 black points."
+              },
+              {
+                "code": "Dubai Traffic Code Art. 175",
+                "name": "Running a Red Light",
+                "fine": 1000,
+                "repeatFine": 1000,
+                "description": "Crossing a red signal. 12 black points, 30-day vehicle impound."
+              },
+              {
+                "code": "Dubai Traffic Code Art. 166",
+                "name": "Tailgating / Insufficient Distance",
+                "fine": 400,
+                "repeatFine": 400,
+                "description": "Following another vehicle too closely. 4 black points."
+              },
+              {
+                "code": "Dubai Traffic Code Art. 155",
+                "name": "Driving without Valid Insurance",
+                "fine": 500,
+                "repeatFine": 500,
+                "description": "Driving without valid motor vehicle insurance in Dubai. 4 black points, 7-day impound."
+              },
+              {
+                "code": "Dubai Traffic Code Art. 180",
+                "name": "Illegal Window Tinting",
+                "fine": 1500,
+                "repeatFine": 1500,
+                "description": "Using non-approved window tinting that exceeds the legal limit in Dubai."
+              }
+            ]
+          },
+          {
+            "type": "Commercial Vehicle",
+            "violations": [
+              {
+                "code": "Dubai Traffic Code Art. 173",
+                "name": "Overloading / Exceeding Weight Limit",
+                "fine": 3000,
+                "repeatFine": 3000,
+                "description": "Operating a commercial vehicle that exceeds its registered gross weight in Dubai."
+              },
+              {
+                "code": "Dubai Traffic Code Art. 178",
+                "name": "Driving in Restricted Zones",
+                "fine": 1000,
+                "repeatFine": 1000,
+                "description": "Driving a heavy commercial vehicle in residential or restricted zones during prohibited hours."
+              },
+              {
+                "code": "Dubai Traffic Code Art. 179",
+                "name": "Unsecured / Spilling Load",
+                "fine": 3000,
+                "repeatFine": 3000,
+                "description": "Transporting goods that are not properly secured or that spill onto the road. 12 black points."
+              },
+              {
+                "code": "Federal Law Art. 49",
+                "name": "Drunk Driving (Commercial)",
+                "fine": 25000,
+                "repeatFine": 50000,
+                "description": "Operating a commercial vehicle under the influence. Zero-tolerance. Criminal charges and deportation possible."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Abu Dhabi",
+        "vehicleTypes": [
+          {
+            "type": "Two-Wheeler",
+            "violations": [
+              {
+                "code": "AD Traffic Code Art. 163",
+                "name": "Riding without Helmet",
+                "fine": 500,
+                "repeatFine": 500,
+                "description": "Riding a motorcycle without wearing an approved safety helmet in Abu Dhabi. 4 black points."
+              },
+              {
+                "code": "AD Traffic Code Art. 160",
+                "name": "Dangerous Swerving / Reckless Riding",
+                "fine": 2000,
+                "repeatFine": 2000,
+                "description": "Swerving dangerously between lanes in Abu Dhabi. 23 black points, vehicle impound."
+              },
+              {
+                "code": "AD Traffic Code Art. 175",
+                "name": "Running a Red Light",
+                "fine": 1000,
+                "repeatFine": 1000,
+                "description": "Crossing a red signal on a motorcycle in Abu Dhabi. 12 black points, 30-day impound."
+              },
+              {
+                "code": "AD Traffic Code Art. 170",
+                "name": "Using Mobile Phone while Riding",
+                "fine": 800,
+                "repeatFine": 800,
+                "description": "Using a handheld phone while riding a motorcycle in Abu Dhabi. 4 black points."
+              }
+            ]
+          },
+          {
+            "type": "Four-Wheeler",
+            "violations": [
+              {
+                "code": "AD Traffic Code Art. 164",
+                "name": "Not Wearing Seat Belt",
+                "fine": 400,
+                "repeatFine": 400,
+                "description": "Driver or passenger not wearing a seat belt in Abu Dhabi. 4 black points."
+              },
+              {
+                "code": "AD Traffic Code Art. 174",
+                "name": "Speeding (up to 20 km/h over)",
+                "fine": 600,
+                "repeatFine": 600,
+                "description": "Exceeding the posted speed limit by up to 20 km/h in Abu Dhabi."
+              },
+              {
+                "code": "AD Traffic Code Art. 174",
+                "name": "Speeding (21-40 km/h over)",
+                "fine": 900,
+                "repeatFine": 900,
+                "description": "Exceeding the posted speed limit by 21-40 km/h in Abu Dhabi. 6 black points."
+              },
+              {
+                "code": "AD Traffic Code Art. 174",
+                "name": "Speeding (41-60 km/h over)",
+                "fine": 1500,
+                "repeatFine": 1500,
+                "description": "Exceeding the posted speed limit by 41-60 km/h in Abu Dhabi. 12 black points."
+              },
+              {
+                "code": "Federal Law Art. 49",
+                "name": "Drunk Driving / Driving Under Influence",
+                "fine": 20000,
+                "repeatFine": 40000,
+                "description": "Driving under the influence in Abu Dhabi. Zero-tolerance policy. Criminal prosecution applicable."
+              },
+              {
+                "code": "AD Traffic Code Art. 170",
+                "name": "Using Handheld Phone while Driving",
+                "fine": 800,
+                "repeatFine": 800,
+                "description": "Using a handheld mobile phone while driving in Abu Dhabi. 4 black points."
+              },
+              {
+                "code": "AD Traffic Code Art. 175",
+                "name": "Running a Red Light",
+                "fine": 1000,
+                "repeatFine": 1000,
+                "description": "Crossing a red signal in Abu Dhabi. 12 black points, 30-day vehicle impound."
+              },
+              {
+                "code": "AD Traffic Code Art. 155",
+                "name": "Driving without Valid Insurance",
+                "fine": 500,
+                "repeatFine": 500,
+                "description": "Driving without valid motor vehicle insurance in Abu Dhabi. 4 black points."
+              }
+            ]
+          },
+          {
+            "type": "Commercial Vehicle",
+            "violations": [
+              {
+                "code": "AD Traffic Code Art. 173",
+                "name": "Overloading / Exceeding Weight Limit",
+                "fine": 3000,
+                "repeatFine": 3000,
+                "description": "Operating a commercial vehicle exceeding gross weight in Abu Dhabi."
+              },
+              {
+                "code": "AD Traffic Code Art. 179",
+                "name": "Unsecured / Spilling Load",
+                "fine": 3000,
+                "repeatFine": 3000,
+                "description": "Transporting goods that are not secured or that spill onto the road in Abu Dhabi."
+              },
+              {
+                "code": "Federal Law Art. 49",
+                "name": "Drunk Driving (Commercial)",
+                "fine": 25000,
+                "repeatFine": 50000,
+                "description": "Operating a commercial vehicle under influence in Abu Dhabi. Criminal charges apply."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

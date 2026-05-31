@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "regionId": "DELHI_NCR",
+        "country": "India",
+        "region": "Delhi"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [76.8, 28.4],
+            [77.4, 28.4],
+            [77.4, 29.0],
+            [76.8, 29.0],
+            [76.8, 28.4]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "regionId": "BERLIN_METRO",
+        "country": "Germany",
+        "region": "Berlin"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [13.0, 52.3],
+            [13.8, 52.3],
+            [13.8, 52.7],
+            [13.0, 52.7],
+            [13.0, 52.3]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "regionId": "CALIFORNIA_STATE",
+        "country": "USA",
+        "region": "California"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-124.5, 32.5],
+            [-114.0, 32.5],
+            [-114.0, 42.1],
+            [-124.5, 42.1],
+            [-124.5, 32.5]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "regionId": "LONDON_METRO",
+        "country": "United Kingdom",
+        "region": "England"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-0.5, 51.3],
+            [0.3, 51.3],
+            [0.3, 51.7],
+            [-0.5, 51.7],
+            [-0.5, 51.3]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "regionId": "DUBAI_METRO",
+        "country": "United Arab Emirates",
+        "region": "Dubai"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [55.0, 24.8],
+            [55.5, 24.8],
+            [55.5, 25.4],
+            [55.0, 25.4],
+            [55.0, 24.8]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "regionId": "MAHARASHTRA_STATE",
+        "country": "India",
+        "region": "Maharashtra"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [72.6, 15.6],
+            [80.9, 15.6],
+            [80.9, 22.0],
+            [72.6, 22.0],
+            [72.6, 15.6]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "regionId": "KARNATAKA_STATE",
+        "country": "India",
+        "region": "Karnataka"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [74.0, 11.5],
+            [78.6, 11.5],
+            [78.6, 18.5],
+            [74.0, 18.5],
+            [74.0, 11.5]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "regionId": "TAMILNADU_STATE",
+        "country": "India",
+        "region": "Tamil Nadu"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [76.2, 8.0],
+            [80.3, 8.0],
+            [80.3, 13.5],
+            [76.2, 13.5],
+            [76.2, 8.0]
+          ]
+        ]
+      }
+    }
+  ]
+}
